@@ -8,6 +8,7 @@
       <h1>You can see my skills and some accomplishments.</h1>
       <h1>This website is made by <a class="gradient">Saniee</a></h1>
       <img src="../assets/images/favicon.png" width="25%" height="25%">
+      <h2>Art by dae#4907</h2>
     </div>
   </body>
 </template>

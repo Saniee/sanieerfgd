@@ -4,7 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/mygames">My Games</router-link> |
       <router-link to="/code_py">Code.py</router-link> |
-      <router-link to="/myfavoritefilms">My Favorite Films/Serials</router-link> |
+      <router-link to="/myfavoritefilmsserials">My Favorite Films/Serials</router-link> |
       <router-link to="/about">About</router-link>
     </div>
     <router-view />
