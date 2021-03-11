@@ -10,10 +10,10 @@
       <p>Right now im not doing any project except maybe the community server Factorio Mods <a href="https://discord.gg/tTYkKVT" target="_blank">that you can see here!</a></p>
       <p>Im not currently working on anything. Other then that im just doing school stuff since covid hit.</p>
       <br>
-      <img src="../assets/favicon.png" height="25%" width="25%">
+      <img src="../assets/images/favicon.png" height="25%" width="25%">
       <br>
       <p>If you a really generous, you can <a href="https://www.paypal.com/donate?hosted_button_id=GGUQ8PKZVV5MY" target="_blank">donate</a>. Or a QR code:</p>
-      <img src="../assets/QR_Code.png">
+      <img src="../assets/images/QR_Code.png">
     </div>
   </body>
 </template>

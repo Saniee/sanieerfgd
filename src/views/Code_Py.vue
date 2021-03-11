@@ -7,7 +7,7 @@
       <p>You need python 3 installed to run it!</p>
       <p><a href="https://github.com/Saniee/CodE.py/archive/master.zip">Download here!</a></p>
       <p><a href="https://github.com/Saniee/CodE.py">Here is the page on github if you are interested.</a></p>
-      <img src="../assets/code_py.png" width="50%" height="50%">
+      <img src="../assets/images/code_py.png" width="50%" height="50%">
       <p>The code for it is very simple just some if/else statments.</p>
       <p>Oh and there is a little easter egg for the name. ~_^</p>
     </div>

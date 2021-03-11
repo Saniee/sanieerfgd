@@ -51,6 +51,12 @@
   h1 {
     color: aqua;
   }
+  a {
+    color: aquamarine;
+  }
+  a:hover {
+    color: aqua;
+  }
 }
 .vueperslides__progress {
   background: rgba(0, 0, 0, 0.25);

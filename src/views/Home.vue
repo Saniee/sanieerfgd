@@ -7,7 +7,7 @@
       <h1>Welcome to Saniee.rf.gd!</h1>
       <h1>You can see my skills and some accomplishments.</h1>
       <h1>This website is made by <a class="gradient">Saniee</a></h1>
-      <img src="../assets/favicon.png" width="25%" height="25%">
+      <img src="../assets/images/favicon.png" width="25%" height="25%">
     </div>
   </body>
 </template>
