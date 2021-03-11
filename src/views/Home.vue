@@ -4,7 +4,7 @@
       <br>
       <h1>Welcome to the <a class="gradient">new and improved</a> website!</h1>
       <br>
-      <h1>Welcome to Saniee.rf.gd!</h1>
+      <h1>Welcome to <a class="gradient">Saniee.rf.gd</a>!</h1>
       <h1>You can see my skills and some accomplishments.</h1>
       <h1>This website is made by <a class="gradient">Saniee</a></h1>
       <img src="../assets/images/favicon.png" width="25%" height="25%">
@@ -14,13 +14,14 @@
 </template>
 
 <style lang="scss">
-template {
-    background-color: grey;
+.home {
+  color: white;
 }
+/* Gradient */
 a.gradient {
     user-select: none;
     color: white;
-    background: repeating-linear-gradient( -45deg, red 0%, white 7.14%, rgb(0, 0, 0) 14.28%, rgb(0, 255, 255) 21.4%, aqua 28.56%, blue 35.7%, purple 42.84%, red 50% );
+    background: repeating-linear-gradient( -45deg, red 0%, white 7.14%, rgb(0, 0, 0) 14.28%, rgb(0, 255, 255) 21.4%, #27EDE3 28.56%, blue 35.7%, purple 42.84%, red 50% );
     background-size: auto;
     background-clip: border-box;
     background-size: 250vw 250vw;
@@ -105,9 +106,6 @@ a.gradient {
     100% {
       opacity: 1;
     }
-}
-.home {
-  color: black;
 }
 </style>
 
