@@ -52,7 +52,6 @@
       <h2>Some other films/serials that im just going to say without my thoughs to it.</h2>
       <p>Paper House(Netflix Serial) its spanish cant really translate it.</p>
       <p>Love, Death and Robots(Netflix Serial), extremly high quality animations by different studios, Gore and such not for children!</p>
-      <p>Final space(Netflix Serial), seriously go see it its great</p>
       <p>Sherlock Holmes(The serial. Its on Netflix but not full), a good serial, if you were wondering im a sucker for mysteries too.</p>
     </div>
   </body>
