@@ -1,9 +1,11 @@
 <template>
-    
+    <body>
+        
+    </body>
 </template>
 <script>
 export default {
-    name: 'Footer'
+    name: 'BackToTop'
 }
 </script>
 <style lang="scss">

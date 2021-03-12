@@ -1,8 +1,8 @@
 <template>
   <body>
     <ul>
-      <img src="../assets/images/favicon.png" height="60px">   
-      <li><a style="text-decoration: none">Saniee</a></li>
+      <a><router-link to="/"><img src="../../assets/design/favicon.png" height="60px"></router-link></a>  
+      <li><a style="text-decoration: none; margin" id="name">Saniee</a></li>
       <li class="push"></li>
       <li><a><router-link to="/">Home</router-link></a></li> 
       <li><a><router-link to="/mygames">My Games</router-link></a></li>  
@@ -18,12 +18,19 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap%27');
+#name {
+  font-family: 'Sanchez', serif;
+  font-size: 26.258pt;
+  margin: 16px;
+}
+img {
+  margin: 8px;
+}
 ul {
   list-style-type: none;
   display: flex;
   align-items: center;
-  margin: 0;
-  padding: 15px 0px;
   overflow: hidden;
   background-color: #27EDE3;
 }
@@ -31,12 +38,15 @@ ul {
   margin-right: auto;
 }
 li a {
+  font-family: 'Sanchez', serif;
+  font-size: 18pt;
   vertical-align:middle;
   color: #1A1A1A;
-  padding: 40px 5px;
-  text-decoration: underline;
+  padding: 51px 1px;
+  text-decoration: none;
 
   &.router-link-exact-active {
+    text-decoration: underline;
     color: #27EDE3;
     background-color: #1A1A1A;
   }

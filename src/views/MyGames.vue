@@ -42,11 +42,9 @@
         height="672"
         frameborder="0"
       ></iframe>
-      <p><a href="#">^ back to top ^</a></p>
     </div>
   </body>
 </template>
-
 <style lang="scss">
 .mygames {
   h1 {
@@ -64,8 +62,6 @@
   color: aqua;
 }
 </style>
-
-
 <script>
 import { VueperSlides, VueperSlide } from "vueperslides";
 import "vueperslides/dist/vueperslides.css";

@@ -54,7 +54,6 @@
       <p>Love, Death and Robots(Netflix Serial), extremly high quality animations by different studios, Gore and such not for children!</p>
       <p>Sherlock Holmes(The serial. Its on Netflix but not full), a good serial, if you were wondering im a sucker for mysteries too.</p>
       <br>
-      <p><a href="#">^ back to top ^</a></p>
     </div>
   </body>
 </template>

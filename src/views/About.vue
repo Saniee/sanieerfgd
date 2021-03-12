@@ -10,12 +10,11 @@
       <p>Right now im not doing any project except maybe the community server Factorio Lounge <a href="https://discord.gg/tTYkKVT" target="_blank">that you can see here</a>!</p>
       <p>Im not currently working on anything. Other then that im just doing school stuff since covid hit.</p>
       <br>
-      <img src="../assets/images/favicon.png" height="25%" width="25%">
+      <img src="../assets/design/favicon.png" height="25%" width="25%">
       <h2>Art by dae#4907</h2>
       <p>If you a really generous, you can <a href="https://www.paypal.com/donate?hosted_button_id=GGUQ8PKZVV5MY" target="_blank">donate</a>. Or a QR code:</p>
-      <img src="../assets/images/QR_Code.png">
+      <img src="../assets/design/QR_Code.png">
       <br>
-      <p><a href="#">^ back to top ^</a></p>
     </div>
   </body>
 </template>

@@ -1,15 +1,21 @@
-<template>
+<template> 
   <div id="app">
     <Nav />
     <router-view />
+    <BackToTop />
+    <Footer />
   </div>
 </template>
 <script>
-import Nav from './components/Nav.vue';
+import Nav from './components/partials/Nav.vue';
+import Footer from './components/partials/Footer.vue'
+import BackToTop from './components/BackToTop.vue'
 export default {
   name: 'app',
   components: {
-    Nav
+    Nav,
+    Footer,
+    BackToTop
   }
 }
 </script>
@@ -17,6 +23,8 @@ export default {
 body {
   background-color: #1A1A1A;
   color: white;
+  margin: 0;
+  padding: 0;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -24,18 +32,5 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: white;
-}
-
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: gray;
-
-    &.router-link-exact-active {
-      color: aqua;
-    }
-  }
 }
 </style>
