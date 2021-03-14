@@ -1,0 +1,2 @@
+language: node_js
+npm_args: npm i && npm run build
