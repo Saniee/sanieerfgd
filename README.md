@@ -1,4 +1,5 @@
 # Saniee.rf.gd
+[![Build Status](https://travis-ci.com/Saniee/sanieerfgd.svg?token=7y1J4q1oimNPozpTeosy&branch=master)](https://travis-ci.com/Saniee/sanieerfgd)
 
 ## Project setup
 ```
