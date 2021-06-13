@@ -1,7 +1,7 @@
 <template>
     <body>
         <ul>
-            <li><a>©Saniee</a><span id="design">(design by <a id="designlink" href="https://skymmel.rf.gd/" target="_blank">Skymmel</a>)</span><a href="mailto:asamsku10@gmail.com"><img id="mail" src="../../assets/design/mail.png" width="60px"></a></li>
+            <li><a>©Saniee</a><a href="mailto:asamsku10@gmail.com"><img id="mail" src="../../assets/design/mail.png" width="60px"></a></li>
         </ul>
     </body>
 </template>
