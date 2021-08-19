@@ -16,14 +16,19 @@
       <img src="../assets/design/QR_Code.png">
       <br>
       <br>
-      <iframe src='https://ko-fi.com/saniee/?hidefeed=true&widget=true&embed=true&preview=true' style='width:auto;background:#1A1A1A;' height='712px' title='saniee'></iframe>
+      <iframe 
+      src='https://ko-fi.com/saniee/?hidefeed=true&widget=true&embed=true&preview=true' 
+      style='width:auto;background:#1A1A1A;' 
+      height=680px
+      title='saniee'
+      ></iframe>
     </div>
   </body>
 </template>
 
 <style lang="scss">
 .about {
-  height: 1362px;
+  height: auto;
   h1 {
     color: aqua;
   }

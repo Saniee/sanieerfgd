@@ -4,9 +4,9 @@
       <br>
         <div class="text">
           <h1 style="padding-left: 0px; padding-top: 150px;margin-bottom: 0px;margin-top: 0px;padding-right: 250px;">Hello. I'm</h1>
-          <h1 style="padding-bottom: 250px;padding-right: 20px;" class="gradient">Saniee</h1>
+          <h1 style="padding-bottom: 250px;padding-right: 20px;font-size: 40pt;" class="gradient">Saniee</h1>
         </div>
-        <div class="svg">
+          <div class="svg">
         </div>
       <br>
     </div>
@@ -19,8 +19,9 @@
 .home {
   color: white;
   background: url('../assets/design/bg.svg');
-  background-size: 100%;
+  background-size: 100%, auto;
   height: 650px;
+  background-repeat: no-repeat;
 }
 .text {
   position: relative;
@@ -28,7 +29,7 @@
   height: 650px;
   width: 50%;
   float: left;
-  font-size: 22pt;
+  font-size: 25pt;
   margin: 0px;
 }
 .svg {

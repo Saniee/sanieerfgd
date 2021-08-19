@@ -38,8 +38,8 @@
         src="https://www.youtube.com/embed/v2ewkCRuNhc"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""
-        width="1195"
-        height="672"
+        width=100%
+        height=1000
         frameborder="0"
       ></iframe>
     </div>
