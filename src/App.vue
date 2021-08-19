@@ -1,21 +1,39 @@
 <template> 
   <div id="app">
-    <Nav />
+    <NavDesktop v-if="!mobileView" />
+    <NavMobile v-if="mobileView" />
     <router-view />
-    <BackToTop />
     <Footer />
   </div>
 </template>
 <script>
-import Nav from './components/partials/Nav.vue';
+import NavDesktop from './components/partials/NavDesktop.vue';
+import NavMobile from './components/partials/NavMobile.vue';
 import Footer from './components/partials/Footer.vue'
-import BackToTop from './components/BackToTop.vue'
 export default {
   name: 'app',
+
+  data: () => {
+    return {
+      mobileView: false,
+      showNav: false
+    }
+  },
+
+  methods: {
+    handleView() {
+      this.mobileView = window.innerWidth <= 900; 
+    }
+  },
+
   components: {
-    Nav,
-    Footer,
-    BackToTop
+    NavDesktop,
+    NavMobile,
+    Footer
+  },
+
+  created() {
+    this.handleView();
   }
 }
 </script>
