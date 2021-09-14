@@ -85,3 +85,13 @@ export default {
   }),
 };
 </script>
+
+<script>
+export default {
+  name: "Home",
+  components: {},
+  metaInfo: {
+    title: 'My Games'
+  }
+};
+</script>

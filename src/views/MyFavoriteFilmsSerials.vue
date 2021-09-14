@@ -68,3 +68,13 @@
     }
 }
 </style>
+
+<script>
+export default {
+  name: "Home",
+  components: {},
+  metaInfo: {
+    title: 'My Favorite Films & Serials'
+  }
+};
+</script>

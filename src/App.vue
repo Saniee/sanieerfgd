@@ -34,6 +34,11 @@ export default {
 
   created() {
     this.handleView();
+  },
+  
+  metaInfo: {
+    title: 'Saniee.rf.gd',
+    titleTemplate: '%s | Saniee.rf.gd'
   }
 }
 </script>

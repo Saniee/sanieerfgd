@@ -125,5 +125,8 @@
 export default {
   name: "Home",
   components: {},
+  metaInfo: {
+    title: 'Home'
+  }
 };
 </script>

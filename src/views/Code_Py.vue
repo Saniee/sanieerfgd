@@ -27,3 +27,13 @@
     }
 }
 </style>
+
+<script>
+export default {
+  name: "Home",
+  components: {},
+  metaInfo: {
+    title: 'Code.py'
+  }
+};
+</script>
