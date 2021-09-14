@@ -3,6 +3,17 @@
     <div class="about">
       <h1 style="color: aqua">About Me</h1>
       <br />
+
+      <h1>My Skills {If you are interested}</h1>
+
+      <p>
+        Some knowledge of Java, C#, Python and C++. I mostly work in Node.js or
+        recently Typescript, and I have this website done with Vue.js
+      </p>
+
+      <br />
+      <h1>Actual About Me</h1>
+      <br />
       <p>
         My name is Samuel and im studying in middle school and i like to
         experiment, mostly webstites, games(Not anymore for some time) or even
@@ -14,15 +25,15 @@
         electronics. I am the owner of discord server called Factorio Lounge.
       </p>
       <p>
-        Right now im not doing any project except maybe the community server
+        Right now im am working on a Discord bot called FoxholeWarBot and
         Factorio Lounge
         <a href="https://discord.gg/tTYkKVT" target="_blank"
           >that you can see here</a
         >!
       </p>
       <p>
-        Im not currently working on anything. Other then that im just doing
-        school stuff since covid hit.
+        I am mostly free but sometimes I work on my bots. Other then that im
+        just doing school stuff since covid hit.
       </p>
       <p>If you have any work for me hit me up.</p>
       <p style="color: red">
