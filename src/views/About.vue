@@ -29,11 +29,10 @@
         Right now im am working on a Discord bot called
         <a style="color: aqua">FoxholeWarBot</a> that you can see on top.gg:
         <a href="https://top.gg/bot/886994381259833374" target="_blank"
-          >click me!</a
-        >
-        And a discord server called <a style="color: aqua">Factorio Lounge</a>,
-        invite link:
-        <a href="https://discord.gg/tTYkKVT" target="_blank">click me!</a>!
+          >click me</a
+        >! And a discord server called
+        <a style="color: aqua">Factorio Lounge</a>, invite link:
+        <a href="https://discord.gg/tTYkKVT" target="_blank">click me</a>!
       </p>
       <p>
         I am mostly free but sometimes I work on my bots. Other then that im
