@@ -33,9 +33,7 @@
         >
         And a discord server called <a style="color: aqua">Factorio Lounge</a>,
         invite link:
-        <a href="https://discord.gg/tTYkKVT" target="_blank"
-          >that you can see here</a
-        >!
+        <a href="https://discord.gg/tTYkKVT" target="_blank">click me!</a>!
       </p>
       <p>
         I am mostly free but sometimes I work on my bots. Other then that im
