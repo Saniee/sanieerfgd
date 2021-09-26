@@ -12,8 +12,9 @@
       </p>
 
       <br />
+
       <h1>Actual About Me</h1>
-      <br />
+
       <p>
         My name is Samuel and im studying in middle school and i like to
         experiment, mostly webstites, games(Not anymore for some time) or even
@@ -25,8 +26,13 @@
         electronics. I am the owner of discord server called Factorio Lounge.
       </p>
       <p>
-        Right now im am working on a Discord bot called FoxholeWarBot and
-        Factorio Lounge
+        Right now im am working on a Discord bot called
+        <a style="color: aqua">FoxholeWarBot</a> that you can see on top.gg:
+        <a href="https://top.gg/bot/886994381259833374" target="_blank"
+          >click me!</a
+        >
+        And a discord server called <a style="color: aqua">Factorio Lounge</a>,
+        invite link:
         <a href="https://discord.gg/tTYkKVT" target="_blank"
           >that you can see here</a
         >!
@@ -35,11 +41,15 @@
         I am mostly free but sometimes I work on my bots. Other then that im
         just doing school stuff since covid hit.
       </p>
-      <p>If you have any work for me hit me up.</p>
-      <p style="color: red">
-        Since I am currently trying to make some money, it wont be for free
+      <p>
+        I am trying to start freelance, so if you are interested hit me up at
+        gmail where we can share more contacts.
       </p>
+      <p style="color: red">No free work.</p>
       <br />
+
+      <h1>Donations:</h1>
+
       <p>
         If you a really generous, you can
         <a
