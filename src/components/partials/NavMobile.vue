@@ -63,9 +63,9 @@ li {
 li a {
   font-family: 'Sanchez', serif;
   font-size: 18pt;
-  vertical-align:middle;
+  vertical-align: middle;
   color: #1A1A1A;
-  padding: 0px 1px;
+  padding: 0px 0px;
   text-decoration: none;
 
   &.router-link-exact-active {

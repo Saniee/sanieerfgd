@@ -16,7 +16,7 @@
       <h1>Actual About Me</h1>
 
       <p>
-        My name is Samuel and im studying in middle school and i like to
+        My name is <ul class="dynamic-txts"><li><span>Saniee</span></li></ul> and im studying in middle school and i like to
         experiment, mostly websites and discord bots.
       </p>
       <br />
