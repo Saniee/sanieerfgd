@@ -17,8 +17,7 @@
 
       <p>
         My name is Samuel and im studying in middle school and i like to
-        experiment, mostly webstites, games(Not anymore for some time) or even
-        discord bots.
+        experiment, mostly websites and discord bots.
       </p>
       <br />
       <p>
@@ -49,21 +48,13 @@
 
       <p>
         If you a really generous, you can
-        <a
-          href="https://www.paypal.com/donate?hosted_button_id=GGUQ8PKZVV5MY"
-          target="_blank"
-          >donate (paypal)</a
-        >. Or a QR code:
       </p>
-      <img src="../assets/design/QR_Code.png" />
+      <a href="https://www.patreon.com/bePatron?u=50123861" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
       <br />
       <br />
-      <iframe
-        src="https://ko-fi.com/saniee/?hidefeed=true&widget=true&embed=true&preview=true"
-        style="width: auto; background: #1a1a1a"
-        height="680px"
-        title="saniee"
-      ></iframe>
+      <a href="https://www.fiverr.com/sanieesk/make-a-custom-discord-bot-for-you">Commision me!</a>
+      <br />
+      <br />
     </div>
   </body>
 </template>
