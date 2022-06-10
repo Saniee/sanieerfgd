@@ -1,5 +1,5 @@
 <template>
-    <body>
+    <body id="design">
         <ul>
             <li><a>©Saniee</a><a href="mailto:asamsku10@gmail.com"><img id="mail" src="../../assets/design/mail.png" width="60px"></a></li>
         </ul>
@@ -16,12 +16,6 @@ export default {
     color: #207974;
     font-family: 'Sanchez', serif;
     font-size: 18pt;
-}
-#designlink {
-    color: #207974;
-    font-family: 'Sanchez', serif;
-    font-size: 18pt;
-    margin: 0;
 }
 #mail { 
   float: right;

@@ -38,7 +38,7 @@ export default {
 
   metaInfo: {
     title: "Saniee.rf.gd",
-    titleTemplate: "%s | Saniee.rf.gd",
+    titleTemplate: "%s | Saniee",
   },
 };
 </script>

@@ -49,10 +49,10 @@
       <p>
         If you a really generous, you can
       </p>
-      <a href="https://www.patreon.com/bePatron?u=50123861" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+      <a href="https://ko-fi.com/saniee" target="_blank">Become a Supporter!</a>
       <br />
       <br />
-      <a href="https://www.fiverr.com/sanieesk/make-a-custom-discord-bot-for-you">Commision me!</a>
+      <a href="https://ko-fi.com/saniee#buyCommissionModal" target="_blank">Commision me!</a>
       <br />
       <br />
     </div>

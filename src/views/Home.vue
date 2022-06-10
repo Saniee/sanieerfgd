@@ -3,25 +3,16 @@
     <div class="home" v-if="!mobileView">
       <br />
       <div class="text">
+        <h1 style="width: 100%; margin-left: 50%">Hello. I'm</h1>
         <h1
-          style="
-            padding-left: 0px;
-            padding-top: 150px;
-            margin-bottom: 0px;
-            margin-top: 0px;
-            padding-right: 250px;
-          "
-        >
-          Hello. I'm
-        </h1>
-        <h1
-          style="padding-bottom: 250px; padding-right: 20px; font-size: 40pt"
           class="gradient"
+          style="font-size: 80.5pt; margin-left: 50%; width: 100%"
         >
           Saniee
         </h1>
+        <h1 style="font-size: 40.5pt;color: teal;margin-left: 50%; width: 100%">Hello, I am a Student of IT and Electrical Engineering</h1>
+        <h1 style="font-size: 40.5pt;color: aqua;margin-left: 50%; width: 100%">Have a look around!</h1>
       </div>
-      <div class="svg"></div>
       <br />
     </div>
     <div class="homeMobile" v-if="mobileView">
@@ -30,32 +21,31 @@
         <h1 style="width: 100%; margin-left: 50%">Hello. I'm</h1>
         <h1
           class="gradient"
-          style="font-size: 40.5pt; margin-left: 50%; width: 100%"
+          style="font-size: 60.5pt; margin-left: 50%; width: 100%"
         >
           Saniee
         </h1>
+        <h1 style="font-size: 30.5pt;color: teal;margin-left: 50%; width: 100%">Hello, I am a Student of IT and Electrical Engineering</h1>
+        <h1 style="font-size: 30.5pt;color: aqua;margin-left: 50%; width: 100%">Have a look around!</h1>
       </div>
       <br />
     </div>
   </body>
 </template>
 
-<style lang="scss">
+<style lang="css">
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap%27");
 @import url("https://fonts.googleapis.com/css2?family=Sanchez&display=swap%27");
 .home {
-  color: white;
-  background: url("../assets/design/bg.svg");
-  background-size: 100%, auto;
   height: 815px;
   background-repeat: no-repeat;
 }
 .homeMobile {
-  color: white;
   background-size: 100%, auto;
   height: 815px;
 }
 .text {
+  color: white;
   position: relative;
   font-family: "Oswald", sans-serif;
   height: 650px;
@@ -63,14 +53,6 @@
   float: left;
   font-size: 25pt;
   margin: 0px;
-}
-.svg {
-  background: url("../assets/design/bgDragon.svg");
-  float: right;
-  background-size: 90%;
-  background-repeat: no-repeat;
-  height: 650px;
-  width: 49%;
 }
 /* Gradient */
 .gradient {
@@ -179,7 +161,11 @@ export default {
     },
   },
 
-  created() {
+  // created() {
+  //   this.handleView();
+  // },
+
+  onUpdated() {
     this.handleView();
   },
 

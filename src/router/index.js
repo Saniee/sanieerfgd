@@ -33,6 +33,16 @@ const routes = [
     name: 'MyFavoriteFilmsSerials',
     component: () => import('../views/MyFavoriteFilmsSerials.vue'),
   },
+  {
+    path: '/foxholewarbot-tos',
+    name: 'FoxholeWarbot-TOS',
+    component: () => import('../views/FoxholeWarBotTOS.vue'),
+  },
+  {
+    path: '/foxholewarbot-privacy',
+    name: 'FoxholeWarbot Privacy Policy',
+    component: () => import('../views/FoxholeWarBotPrivacy.vue'),
+  },
 ];
 
 const router = new VueRouter({
